@@ -9,7 +9,7 @@ A simple and responsive web app to generate QR codes from any URL or text. Built
 👉 [Visit the Live Site](https://niharika1112.github.io/QR_generator/)  
 Or scan this QR code:
 
-                                <img width="250" height="250" alt="qrcode_niharika1112 github io" src="https://github.com/user-attachments/assets/b45b079e-f8bd-4c09-9cbd-014929e5c328" />
+  <img width="250" height="250" alt="qrcode_niharika1112 github io" src="https://github.com/user-attachments/assets/b45b079e-f8bd-4c09-9cbd-014929e5c328" />
 
 ---
 
